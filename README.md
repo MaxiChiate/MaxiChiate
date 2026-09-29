@@ -120,8 +120,10 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MaxiChiate&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaxiChiate/MaxiChiate/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/MaxiChiate/MaxiChiate/output/snake.svg" alt="Contribution snake" />
+</picture>
 <sub>🇦🇷 Spanish (native) · 🇬🇧 English (advanced) · Buenos Aires</sub>
 
 </div>
